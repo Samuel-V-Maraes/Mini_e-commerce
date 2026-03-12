@@ -64,7 +64,7 @@ mini-ecommerce
 
 1. Clone o repositório:
 
-git clone https://github.com/seuusuario/mini-ecommerce
+git clone https://github.com/Samuel-V-Maraes/mini-ecommerce
 
 2. Coloque a pasta do projeto dentro de um servidor local como:
 
@@ -112,5 +112,6 @@ Durante o desenvolvimento deste projeto foram praticados conceitos como:
 ---
 
 ## 👨‍💻 Autor
+
 
 Projeto desenvolvido para estudo e construção de portfólio.
