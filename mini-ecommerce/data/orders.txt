@@ -1,0 +1,2 @@
+# Arquivo para armazenar pedidos
+# Cada pedido será salvo em uma linha
